@@ -1,3 +1,3 @@
 # Console_Projects
-# Tools/Games on console
-Work is not currently in the remote git.
+$ CommandLine Tools and Games
+$ Work is not currently in the remote git
