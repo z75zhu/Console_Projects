@@ -1,5 +1,5 @@
 ### Summary:
-###### Team Work (group of three, C++):
+###### Team Work (C++):
     cc3k: 
     commandline game (MVC, Software Design Pattern:"Observer, Visitor, Iterator", Virtual Class)
 ###### Individual Work (C++):
