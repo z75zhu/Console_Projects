@@ -1,7 +1,8 @@
 # CommandLine Projects using C++
 ### Summary:
 ###### Team Work (group of three):
-    commandline game cc3k (MVC, Software Design Pattern:"Observer, Visitor, Iterator", Virtual Class)
+    cc3k: 
+    commandline game (MVC, Software Design Pattern:"Observer, Visitor, Iterator", Virtual Class)
 ###### Individual Work:
     Make-Dependencies, a mock of actual dependencies and how it works for make command
     constructing and printing binary tree
