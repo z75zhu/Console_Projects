@@ -1,4 +1,4 @@
-# Console_Projects using C++
+# CommandLine Projects using C++
 ## Code is Currently Not in The Remote Git, Since Most of Them Are School Projects And Should Not Be Placed in Public
 ### Summary:
 ###### Team Work (group of three):
