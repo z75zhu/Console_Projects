@@ -1,4 +1,3 @@
-# CommandLine Projects using C++
 ### Summary:
 ###### Team Work (group of three):
     cc3k: 
@@ -10,4 +9,4 @@
     other data structure and c++ related games and command line tools, 
     such as: text compare, line wrapper, source-code formatter, Dynamic  Array using c++, and so on...
 
-## Code is Currently Not in The Remote Git, Since Most of Them Are School Projects And Should Not Be Placed in Public
+### Code is Currently Not in The Remote Git, Since Most of Them Are School Projects And Should Not Be Placed in Public
