@@ -7,4 +7,5 @@
     Make-Dependencies, a mock of actual dependencies and how it works for make command
     constructing and printing binary tree
     simple mastermind game
-    other data structure and c++ related games and command line tools, such as text compare, line wrapper, source-code formatter, Dynamic  Array using c++, and so on
+    other data structure and c++ related games and command line tools, 
+    such as: text compare, line wrapper, source-code formatter, Dynamic  Array using c++, and so on...
