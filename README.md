@@ -1,8 +1,8 @@
 ### Summary:
-###### Team Work (group of three):
+###### Team Work (group of three, C++):
     cc3k: 
     commandline game (MVC, Software Design Pattern:"Observer, Visitor, Iterator", Virtual Class)
-###### Individual Work:
+###### Individual Work (C++):
     Make-Dependencies, a mock of actual dependencies and how it works for make command
     constructing and printing binary tree
     simple mastermind game
