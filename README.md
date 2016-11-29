@@ -1,5 +1,6 @@
 ## Console_Projects w/ C++
-### WORK IS CURRENTLY NOT IN THE REMOTE GIT SINCE MOST OF THEM ARE SCHOOL PROJECTS AND SHOULD NOT BE PLACED IN PUBLIC
+### Work is Currently Not in The Remote Git 
+### Since Most of Them Are School Projects And Should Not Be Placed in Public
 ##### CommandLine Tools and Games such as:
     constructing and printing binary tree
     commandline game cc3k
