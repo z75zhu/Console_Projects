@@ -1,4 +1,6 @@
 ### Summary:
+###### Everything is written in C++:
+
 ###### Team Work:
     cc3k: 
     commandline game (MVC, Software Design Pattern:"Observer, Visitor, Iterator", Virtual Class)
@@ -8,7 +10,6 @@
     simple mastermind game
     other data structure and c++ related games and command line tools, 
     such as: text compare, line wrapper, source-code formatter, Dynamic  Array using c++, and so on...
-###### Everything is written in C++:
 
 
 ### Code is currently not in the remote git, since most of them are school projects and should not be placed in public.....
