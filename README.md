@@ -1,5 +1,5 @@
-## Console_Projects using C++
-### Code is Currently Not in The Remote Git, Since Most of Them Are School Projects And Should Not Be Placed in Public
+# Console_Projects using C++
+## Code is Currently Not in The Remote Git, Since Most of Them Are School Projects And Should Not Be Placed in Public
 ##### CommandLine Tools and Games Summary:
 ###### Team Work (group of three):
     commandline game cc3k (MVC, Software Design Pattern:"Observer, Visitor, Iterator", Virtual Class)
